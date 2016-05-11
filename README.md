@@ -1,0 +1,2 @@
+# python-multiprocessing
+主要讨论了thread的库，multiprocessing和multiprocessing.dummy，并写了个小测试程序
